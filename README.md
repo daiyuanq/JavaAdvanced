@@ -4,9 +4,9 @@ _《Java高级程序设计》实践教程例程_  湖北轻工职业技术学院
 #### Java编码规范  
 ****
 #### Java集合框架
->*Java List集合  
->*Java Set集合  
->*Java Map集合  
+>* Java List集合  
+>* Java Set集合  
+>* Java Map集合  
 ****
 #### Java反射机制  
 ****
